@@ -1,27 +1,15 @@
 <!--
  * @Author: your name
- * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2021-09-28 11:37:30
- * @LastEditors: Please set LastEditors
+ * @Date: 2021-09-28 11:38:01
+ * @LastEditTime: 2021-09-28 11:41:20
+ * @LastEditors: your name
  * @Description: In User Settings Edit
- * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
+ * @FilePath: /growth-hacker/docs/用户增长: ALTV.md
 -->
-# ROI
-
-# CAC
-# 留存
+#! https://zhuanlan.zhihu.com/p/414879384
 
 
-## 留存率计算
-
-## 留存曲线拟合
-
-留存率，在数据分析中，我认为是一个比较好用的指标，因为比较稳定，不会很容易受外界因素的干扰，大幅波动。例如活动，推广等。可以用来做用户的分类，做用户规模预测。
-## 留存函数详解
-
-
-# LTV
-
+![](../assets/img/growth-hacking.jpg)
 ## ALTV
 
 LTV总量就是ALTV（Aggregation LTV），对于任何产品，都要不断提升其ALTV。如果用一个公式来衡量一个用户增长团队的主要工作的话，那就是Max（ALTV）。
@@ -53,21 +41,4 @@ LTV总量就是ALTV（Aggregation LTV），对于任何产品，都要不断提�
 注意：　大规模拉新之前，还有一点需要特别注意，那就是只有产品的基础体验达到一定门槛，才能让核心用户有相对较好的体验。用户有了比较好的体验，才能留存下来。但这并不是说要等我们把产品体验打磨到极致了才去拉新，而是说需要让用户能够比较流畅地体验完产品的核心功能，并且愿意再次使用。这样用户才有可能留存下来，并持续贡献价值。当然，无论产品体验被打磨到何种程度，总是会有用户因为不喜欢我们的产品而离开，这是正常的。所以在早期，产品的基础体验是最重要的，是数字前面的那个“1”。而用户增长则是数字后面的一串零，如果没有前面的“1”，零再多也没有用
 ```
 
-## LT计算
-
-
-
-# DAU
-## DAU计算
-
-### DAU与长留关系
-https://www.freesion.com/article/6286506946/
-
-
-
-# 参考书目
-
-- 《我的一线做用户增重：存量时代的用户运营之道》
-- 《增长黑客》
-
-
+![](../docs/img/firstgrowth.png)
