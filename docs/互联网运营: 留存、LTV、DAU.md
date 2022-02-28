@@ -1,15 +1,42 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2021-09-28 11:37:30
+ * @LastEditTime: 2022-02-28 14:53:07
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
 -->
+# 价值模型
+
+> 所有商业模式的根本模型
+
+Profit = ROI * Quantity
 # ROI
+> ROI = Return - Investment
+>         =  LTV -CAC
 
 # CAC
+> CAC: Custom Acquisition Cost
+
+
+# LTV
+>  LTV: Life Time Value = LT * V
+
+<b>如何计算用户生命周期?(LT)</b>
 # 留存
+
+> 一切始于留存
+
+- 第n天留存率 = 第n天仍活跃的用户数/ 第一天新增用户数
+- 次日留存 = 第2天仍然活跃的用户数 / 第1天新增用户数
+- 三日留存 = 第3天仍然活跃的用户数 / 第1天新增用户数
+- ...
+
+> 一个典型产品的留存数据
+
+|   | 次日 | 3日| 4日| 5日| 6日|7日|
+|---|---|---|---|---|---|---|
+|  留存率 | 39.5%   | 25.9% | 20.5%|17.3% |15.5%|13.3% |10.3% |
 
 
 ## 留存率计算
@@ -20,7 +47,7 @@
 ## 留存函数详解
 
 
-# LTV
+
 
 ## ALTV
 
