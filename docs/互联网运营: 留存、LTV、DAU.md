@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2022-02-28 14:53:07
+ * @LastEditTime: 2022-02-28 15:11:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
@@ -38,6 +38,10 @@ Profit = ROI * Quantity
 |---|---|---|---|---|---|---|
 |  留存率 | 39.5%   | 25.9% | 20.5%|17.3% |15.5%|13.3% |10.3% |
 
+## 留存的性质
+> 一个产品的价值仅取决于留存
+
+$LTm = \sum_{n=1}^m R_n$
 
 ## 留存率计算
 
@@ -96,5 +100,6 @@ https://www.freesion.com/article/6286506946/
 
 - 《我的一线做用户增重：存量时代的用户运营之道》
 - 《增长黑客》
+- [LaTex数学公式](https://www.jianshu.com/p/8c46e915c45e)
 
 
