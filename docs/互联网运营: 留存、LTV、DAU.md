@@ -1,11 +1,12 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2022-02-28 15:11:06
+ * @LastEditTime: 2022-03-02 14:43:04
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
 -->
+
 # 价值模型
 
 > 所有商业模式的根本模型
@@ -15,12 +16,13 @@ Profit = ROI * Quantity
 > ROI = Return - Investment
 >         =  LTV -CAC
 
+ROI(投入回报)有3种算法：ROI = LTV - CAC  关注单用户收益、ROI = (LTV - CAC)/CAC 关注投资回报率、ROI = LTV/CAC 关注投产比。
 # CAC
-> CAC: Custom Acquisition Cost
+> CAC: Custom Acquisition Cost 用户获取成本
 
 
 # LTV
->  LTV: Life Time Value = LT * V
+>  LTV: Life Time Value 用户生命周期价值 = LT * V
 
 <b>如何计算用户生命周期?(LT)</b>
 # 留存
@@ -36,10 +38,14 @@ Profit = ROI * Quantity
 
 |   | 次日 | 3日| 4日| 5日| 6日|7日|
 |---|---|---|---|---|---|---|
-|  留存率 | 39.5%   | 25.9% | 20.5%|17.3% |15.5%|13.3% |10.3% |
+|  留存率 | 39.5%   | 25.9% | 20.5%|17.3% |15.5%|13.3% |10.3
+
+互联网产品，次留<40% 是没有信心活下去的，至少要多余这个值。
 
 ## 留存的性质
 > 一个产品的价值仅取决于留存
+
+**Life Time (LT)的计算**
 
 $LTm = \sum_{n=1}^m R_n$
 
@@ -47,12 +53,25 @@ $LTm = \sum_{n=1}^m R_n$
 
 ## 留存曲线拟合
 
+> 拟合留存的常用曲线：线性、多项式、对数、幂次、指数
+
 留存率，在数据分析中，我认为是一个比较好用的指标，因为比较稳定，不会很容易受外界因素的干扰，大幅波动。例如活动，推广等。可以用来做用户的分类，做用户规模预测。
 ## 留存函数详解
 
 
 
 
+## DAU
+- 对于系统内置APP，长留约等于日活渗透率；
+- 提升DAU的关键在于提升长留；产品留存的最优曲线是留存起点高、衰减速率低； 
+- LTV>CAC，我们会认为产品的投放是有回报是值得的。
+
+
+# 增长
+增长方法：找到一个北极星指标；进入快速实验迭代阶段，以一两周为周期实验；将上一次的实验结果应用到下一次实验中，并时刻关注指标变化
+
+# 投放
+投放：不断优化投放素材，获取更精准的用户；果断放弃LTV远小于CAC的投放计划，及时止损
 ## ALTV
 
 LTV总量就是ALTV（Aggregation LTV），对于任何产品，都要不断提升其ALTV。如果用一个公式来衡量一个用户增长团队的主要工作的话，那就是Max（ALTV）。
@@ -95,7 +114,9 @@ LTV总量就是ALTV（Aggregation LTV），对于任何产品，都要不断提�
 https://www.freesion.com/article/6286506946/
 
 
+# QA
 
+1. 
 # 参考书目
 
 - 《我的一线做用户增重：存量时代的用户运营之道》
