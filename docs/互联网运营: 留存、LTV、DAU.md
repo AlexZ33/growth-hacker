@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2022-03-02 14:43:04
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-07-28 20:04:23
+ * @LastEditors: AlexZ33 775136985@qq.com
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
 -->
@@ -62,11 +62,15 @@ $LTm = \sum_{n=1}^m R_n$
 
 
 ## DAU
+日活跃用户常用于反映网站、互联网应用或网络游戏的运营情况。DAU通常统计一日之内，登录或使用了某个产品的用户数(去除重复登录的用户)。
+一般移动互联网中，因为app并非打开就必须登录，所以统计 DAU 以设备数为主，而非注册用户数。
+
+
 - 对于系统内置APP，长留约等于日活渗透率；
 - 提升DAU的关键在于提升长留；产品留存的最优曲线是留存起点高、衰减速率低； 
 - LTV>CAC，我们会认为产品的投放是有回报是值得的。
 
-
+$DAU_m = LT_m = \sum_ $
 # 增长
 增长方法：找到一个北极星指标；进入快速实验迭代阶段，以一两周为周期实验；将上一次的实验结果应用到下一次实验中，并时刻关注指标变化
 
