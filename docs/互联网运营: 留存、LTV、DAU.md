@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2022-07-28 20:04:23
+ * @LastEditTime: 2022-07-29 17:16:47
  * @LastEditors: AlexZ33 775136985@qq.com
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
@@ -13,6 +13,12 @@
 
 Profit = ROI * Quantity
 # ROI
+
+
+
+
+
+
 > ROI = Return - Investment
 >         =  LTV -CAC
 
@@ -25,6 +31,12 @@ ROI(投入回报)有3种算法：ROI = LTV - CAC  关注单用户收益、ROI = 
 >  LTV: Life Time Value 用户生命周期价值 = LT * V
 
 <b>如何计算用户生命周期?(LT)</b>
+
+$LT_m = \sum_ {i=1} ^m R_i = m R_{avg}$
+
+> N个Ri的和，等于m乘以长留，长期留存，一般是指30天以上的留存
+微分中值定理、积分中值定理、拉格朗日中值定理等，也能证明
+
 # 留存
 
 > 一切始于留存
@@ -118,11 +130,17 @@ LTV总量就是ALTV（Aggregation LTV），对于任何产品，都要不断提�
 https://www.freesion.com/article/6286506946/
 
 
+# 如何做长留的增长
+> - 长留指标的缺点：观察周期长、难以归因，不具备Attainable的特性，所以不是北极星指标
+
+$DAU_m = DAU_{m-1} * r_2 + DOU + DNU = mR * DNU$
+
 # QA
 
 1. 
 # 参考书目
 
+- 
 - 《我的一线做用户增重：存量时代的用户运营之道》
 - 《增长黑客》
 - [LaTex数学公式](https://www.jianshu.com/p/8c46e915c45e)
