@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-20 10:26:59
- * @LastEditTime: 2022-07-29 17:16:47
+ * @LastEditTime: 2022-08-01 16:25:47
  * @LastEditors: AlexZ33 775136985@qq.com
  * @Description: In User Settings Edit
  * @FilePath: /growth-hacker/docs/互联网运营: 留存、LTV、DAU.md
@@ -28,7 +28,13 @@ ROI(投入回报)有3种算法：ROI = LTV - CAC  关注单用户收益、ROI = 
 
 
 # LTV
+
+> LTV(Lifetime Value)生命周期总价值，是公司从用户所有的互动中所得到的全部经济收益的总和。
 >  LTV: Life Time Value 用户生命周期价值 = LT * V
+
+<b>LTV在用户增长的各个阶段起的作用</b>
+
+![](./../assets/img/ltvPeriod.png)
 
 <b>如何计算用户生命周期?(LT)</b>
 
@@ -36,6 +42,8 @@ $LT_m = \sum_ {i=1} ^m R_i = m R_{avg}$
 
 > N个Ri的和，等于m乘以长留，长期留存，一般是指30天以上的留存
 微分中值定理、积分中值定理、拉格朗日中值定理等，也能证明
+
+
 
 # 留存
 
